@@ -1,0 +1,2 @@
+# automaster
+My awesome repository
